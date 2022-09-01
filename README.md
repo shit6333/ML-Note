@@ -6,7 +6,7 @@
 
 - [Backpropagation 反向傳播算法](https://hackmd.io/DmyWkhjmTieNuNQaCc6AOQ)
 
-- [Optimizer 優化器 : Momentum、AdaGrad、RMSProp、Adam](https://hackmd.io/VkmYbdzWS26ZihqHMqHA2w?view#4-Adam)
+- [Optimizer 優化器 : Momentum、AdaGrad、RMSProp、Adam](https://hackmd.io/VkmYbdzWS26ZihqHMqHA2w?view)
 
 - [正規化 (L1、L2)](https://hackmd.io/RrUp9yPTR2ureJBSfjtFew?view)
 
