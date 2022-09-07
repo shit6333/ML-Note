@@ -10,6 +10,8 @@
 
 - [KL Divergence & CrossEntrophy 的真面目](https://hackmd.io/PjUEbxbeSA2qNbRupRzYMw?view)
 
+- [JS Divergence](https://hackmd.io/HkdFlyzsS3uJowG0bU8SJw?view)
+
 - [正規化 (L1、L2)](https://hackmd.io/RrUp9yPTR2ureJBSfjtFew?view)
 
 - [Self-Attention](https://hackmd.io/9X2v4Wo0Smik2qTtAX9Jlw?view#%E7%B0%A1%E4%BB%8B)
