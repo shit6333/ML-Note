@@ -12,7 +12,7 @@
 - [正規化 (L1、L2)](https://hackmd.io/RrUp9yPTR2ureJBSfjtFew?view)
 
 ## ☯ GAN 篇章 
-## Divergence 之亂
+### Divergence 之亂
 - [KL Divergence & CrossEntrophy 的真面目](https://hackmd.io/PjUEbxbeSA2qNbRupRzYMw?view)
 
 - [JS Divergence](https://hackmd.io/HkdFlyzsS3uJowG0bU8SJw?view)
